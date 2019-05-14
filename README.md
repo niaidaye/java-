@@ -8,3 +8,7 @@
 4. [JAVA的事件委托机制和垃圾回收机制](./Object/04JAVAEven&GarbageCollection.md)
 5. [在 JAVA中，如何跳出当前的多重嵌套循环？- break](./Object/05.md)
 6. [什么是 java序列化，如何实现 java序列化？](./Object/06.md)
+7. 一个".java"源文件中是否可以包括多个类（不是内部类）？有什么限制？
+    > 可以。
+    > 如果这个类的修饰符是public，其类名与文件名必须相同。
+8. [排序都有哪几种方法？请列举。用 JAVA实现一个快速排序？]()
