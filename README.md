@@ -15,3 +15,4 @@
 9. [Overload(重载)和 Override(重写)的区别。Overloaded的方法是否可以改变返回值的类型?](./Object/09Overload&Override.md)
 10. [Final,Static有什么特点？](./Object/10final&Static.md)
 11. [继承时候类的执行顺序问题,一般都是选择题,问你将会打印出什么?](./Object/11.md)
+12. [内部类的实现方式?](./Object/12.md)
